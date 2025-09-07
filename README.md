@@ -72,4 +72,4 @@ Approach
 1. Clone repository
 ```bash
 git clone https://github.com/<your-username>/caremonitor.git
-cd caremonitor-challenge
+cd caremonitor
